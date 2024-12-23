@@ -45,13 +45,6 @@ header .header-content-last {
 }
 header .header-content-last img {
   margin-right: 25px;
-
-  transition: transform .6s ease;
-  display: inline-block;
-}
-}
-header .header-content-last img:hover {
-  transform: scale(1.05);
 }
 header .header-content-last a:last-of-type {
   background-color: var(--green);
