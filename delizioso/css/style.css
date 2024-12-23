@@ -595,7 +595,8 @@ footer div p {
   margin-bottom: 15px;
 }
 footer .about-us .logo {
-  margin: 60px auto 70px auto;
+  margin: 0px auto 35px auto;
+  width: 7rem;
 }
 footer .about-us img {
   margin-right: 15px;
