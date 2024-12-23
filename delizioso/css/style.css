@@ -45,6 +45,12 @@ header .header-content-last {
 }
 header .header-content-last img {
   margin-right: 25px;
+
+  transform: width 0.6s ease;
+}
+}
+header .header-content-last img:hover {
+  width: 3rem;
 }
 header .header-content-last a:last-of-type {
   background-color: var(--green);
