@@ -46,11 +46,11 @@ header .header-content-last {
 header .header-content-last img {
   margin-right: 25px;
 
-  transition: width 0.6s ease;
+  transition: transform 0.6s ease;
 }
 }
 header .header-content-last img:hover {
-  width: 3rem;
+  transform: scale(1.05);
   display: inline-block;
 }
 header .header-content-last a:last-of-type {
