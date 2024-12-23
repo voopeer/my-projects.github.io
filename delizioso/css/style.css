@@ -51,6 +51,7 @@ header .header-content-last img {
 }
 header .header-content-last img:hover {
   width: 3rem;
+  display: inline-block;
 }
 header .header-content-last a:last-of-type {
   background-color: var(--green);
